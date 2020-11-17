@@ -1,0 +1,18 @@
+.form-control-choose{
+  font-size:.9rem;
+  border-radius:10rem;
+  /* padding:1rem 1rem */
+}
+.btn-ijo{
+  background: #1ABC9C;
+  color: white;
+  border-radius: 60px;
+
+}
+.btn-ijo:hover{
+  background: #05493b;
+  color: white;
+  border-radius: 60px;
+  border-color: #05493b;
+}
+
